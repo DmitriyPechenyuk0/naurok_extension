@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Специально для тестов Акимова",
-  "version": "1.0",
+  "version": "2.0",
   "description": "by github.com/dmitriypechenyuk0",
   "permissions": ["activeTab", "scripting"],
   "action": {
